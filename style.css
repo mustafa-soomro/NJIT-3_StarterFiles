@@ -1,5 +1,4 @@
 /* This stylizes the page defaults */
-html,
 body {
     margin: 0;
     padding: 0;
@@ -120,19 +119,19 @@ body {
 
 /* ADD YOUR LIKE AND DISLIKE HOVER/MOUSEOVER CSS CODE HERE */
 .likes {
-    background-color: #294429;
+    background-color: #008700;
     color: #ffffff;
 }
 .likes:hover {
-    background-color: #44ff00;
-    color: #365f36;
+    background-color: #9edd87;
+    color: #008700;
 }
 
 .dislikes {
-    background-color: #f30303;
-    color: #530909;
+    background-color: #f65a5b;
+    color: #ffffff;
 }
 .dislikes:hover {
-    background-color: #ff0000;
-    color: #a87272;
+    background-color: #fdd6d6;
+    color: #F65A5B;
 }
