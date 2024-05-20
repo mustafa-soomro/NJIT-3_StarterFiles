@@ -68,5 +68,48 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Geostorm",
+            "iscore": 5.3,
+            "rating": "PG-13",
+            "runtime": 109,
+            "released": [2017, 10, 20],
+            "country": "USA",
+            "posters": ["img/geostorm.jpg", "img/geostorm2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt1981128/?ref_=ttrel_ov",
+            "website": "https://www.warnerbros.com/movies/geostorm",
+            "likes": 733,
+            "dislikes": 274,
+            "posterindex": 0
+      },
+      {
+            "title": "Saving Private Ryan",
+            "iscore": 8.6,
+            "rating": "R",
+            "runtime": 169,
+            "released": [1998, 7, 21],
+            "country": "USA",
+            "posters": ["img/savingprivateryan.jpg","img/savingprivateryan2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0120815/?ref_=chttp_t_24",
+            "website": "https://www.paramountpictures.com/movies/saving-private-ryan",
+            "likes": 923,
+            "dislikes": 483,
+            "posterindex": 0
+      },
+      {
+            "title": "Captain Phillips",
+            "iscore": 7.8,
+            "rating": "PG-13",
+            "runtime": 134,
+            "released": [2013, 10, 11],
+            "country": "USA",
+            "posters": ["img/captainphillips.jpg", "img/captainphillips2.webp"],
+            "imdb": "https://www.imdb.com/title/tt1535109/",
+            "website": "https://www.rottentomatoes.com/m/captain_phillips",
+            "likes": 994,
+            "dislikes": 145,s
+            "posterindex": 0
       }
 ]
+
